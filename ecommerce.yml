@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: my_token_bae
+  secret: my_token_chu
 
 gateway:
   ip: 10.21.20.55
